@@ -1,3 +1,15 @@
+# ElectrónicaPC Soporte Remoto
+
+Programa de soporte informático remoto de **[ElectronicaPC](https://electronicapc.com)**,
+tienda de informática, electrónica y tecnología online en La Roda (Albacete),
+con envío a toda la península. Basado en [RustDesk](https://github.com/rustdesk/rustdesk).
+
+- 🛒 Tienda online: [electronicapc.com](https://electronicapc.com)
+- 💬 Soporte por WhatsApp: [+34 628 914 200](https://wa.me/34628914200)
+- 📄 Instrucciones de compilación: [LEEME-ELECTRONICAPC.md](LEEME-ELECTRONICAPC.md)
+
+---
+
 <p align="center">
   <img src="res/logo-header.svg" alt="RustDesk - Your remote desktop"><br>
   <a href="#raw-steps-to-build">Build</a> •
